@@ -1,0 +1,99 @@
+body{
+text-align: center;
+font-size:15px;
+background-color: none;
+line-height:1.5;
+margin:60px;
+
+}
+
+.JR{
+    text-align: center;
+    margin-right: 20PX;
+    margin-bottom: 80px;
+}
+.boxes{
+    float:left;
+    text-align: center;
+    width:30%;
+
+}
+.boxes img{
+  width:60px;
+}
+.M{
+    background-image: url('bg-header-desktop.png');
+}
+div.ox{
+    float:left;
+    text-align: center;
+     margin:30px 30px 30px 30px;
+    padding:10px;
+    margin-right: 100px;
+    margin-left: 70px;
+    margin-bottom: 40px;
+}
+div.ox img{
+    width:120px;
+}
+div.P{
+    text-align: center;
+}
+div.X{
+    float:right;
+    text-align: left;
+    padding:-28px;
+    margin-right: 250px;
+
+    margin-left: -80px;
+   
+}
+
+
+.btn1{
+    width: 150px;
+    height: 35px;
+    color:white;
+    background-color: rgb(0, 128, 117);
+    border-radius: 30px;
+    border: none;
+}
+.btn2{
+    width: 150px;
+    height: 35px;
+    color:white;
+    background-color: royalblue;
+    border-radius: 30px;
+    border: none;
+}
+.btn3{
+    width: 150px;
+    height: 35px;
+    color:white;
+    background-color: rgb(0, 128, 117);
+    border-radius: 30px;
+    border: none;
+}
+.btn4{
+    width: 150px;
+    height: 35px;
+    color:white;
+    background-color:royalblue;
+    border-radius: 30px;
+    border: none;
+}
+header ul{
+    margin:0%
+    
+}
+header{
+    height: 150px;
+ 
+}
+.big{
+    float: left;
+    margin-bottom: -80px;
+    margin-left: 200px;
+   
+}
+
